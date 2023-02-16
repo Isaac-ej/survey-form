@@ -1,0 +1,91 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+} 
+
+.container{
+    background-color: blueviolet;
+   
+  
+  
+}
+
+.header{
+    line-height: 0.8;
+    color: rgba(61, 60, 60, 0.867);
+    text-align: center;
+    margin: 40px;
+}
+#survey-form{
+    background-color: #a454fb;
+    padding: 28px ;
+    border-radius: 5px;
+    width: 36rem;
+    line-height: 2.1;
+    margin-left: 20.7rem;
+}
+
+#name{
+    width: 34.2rem;
+    padding: .4rem;
+    outline:none;
+    border-radius: 3px;
+    border-style: none;
+ }
+ #email{
+     width: 34.2rem;
+     padding: .4rem;
+     outline:none;
+     border-radius: 3px;
+     border-style: none;
+ }
+ 
+ #number{
+     width: 34.2rem;
+     padding: .4rem;
+     outline:none;
+     border-radius: 3px;
+     border-style: none;  
+ }
+ 
+ #dropdown{
+     width: 35rem;
+     padding: .4rem;
+     outline:none;
+     border-radius: 3px;
+     border-style: none;  
+ 
+ }
+
+
+ .labels{
+    display:flex;
+    flex-direction: column;
+ }
+ 
+ .pref-op{
+     width: 35rem;
+     padding: .4rem;
+     border-style: none;
+     border-radius: 3px;
+     border-style: none;  
+ }
+ 
+ .submit-button{
+     display: block;
+     min-width:35.2rem;
+     height: 3rem;
+     font-size: 1.2rem; 
+     background-color: #474545;
+     border-style: none;
+     color:#fff
+     
+ }
+ 
+ .input-textarea{
+     border-style: none;
+     outline: none;
+     width: 35rem;
+     height: 5rem;
+ }
+ 
